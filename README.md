@@ -70,6 +70,8 @@ See [DOCUMENTATION](https://github.com/FaaPz/Slim-PDO/blob/master/docs/README.md
 
 See [CHANGELOG](https://github.com/FaaPz/Slim-PDO/blob/master/CHANGELOG.md)
 
-### License
+### 许可证
 
 See [LICENSE](https://github.com/FaaPz/Slim-PDO/blob/master/LICENSE)
+
+### test
