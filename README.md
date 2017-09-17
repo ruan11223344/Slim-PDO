@@ -7,7 +7,7 @@
 
 PDO database library for Slim Framework
 
-### Installation
+### 安装
 
 Use [Composer](https://getcomposer.org/)
 
