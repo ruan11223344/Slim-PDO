@@ -66,7 +66,7 @@ $affectedRows = $deleteStatement->execute();
 
 See [DOCUMENTATION](https://github.com/FaaPz/Slim-PDO/blob/master/docs/README.md)
 
-### Changelog
+### 改变日志
 
 See [CHANGELOG](https://github.com/FaaPz/Slim-PDO/blob/master/CHANGELOG.md)
 
